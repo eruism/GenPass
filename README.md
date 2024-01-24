@@ -3,7 +3,7 @@
 Genpass merupakan password generator yang simple dibangun dengan python dengan antarmuka yang nanti akan dibuat dengan kivy pada release selanjutnya.
 
 ## Installation
-Tidak perlu diinstal hanya download branch lalu jalankan main.py
+Tidak perlu diinstal hanya download sebagai zip saja lalu jalankan main.py
 Jangan lupa harus sudah menginstall python sebelum run!
 
 ```bash
